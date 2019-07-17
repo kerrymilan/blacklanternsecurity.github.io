@@ -50,8 +50,9 @@ Most vulnerability assessments and scanners will leverage publicly available inf
 
 
 **Black Lantern Security Headquarters**  
-1 Cool Blow Suite 322
-Charleston, SC 29403
+
+1834 Summerville Avenue Suite 250
+North Charleston, SC 29405 
 
 **Phone:** 843.991.4612  
 **Contact:** info@blacklanternsecurity.com

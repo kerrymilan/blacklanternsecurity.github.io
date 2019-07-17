@@ -8,10 +8,7 @@ order: 3
 1. [Senior Pentester](#job-title-senior-penetration-tester)
 2. [Junior Pentester](#job-title-junior-penetration-tester)
 3. [Security Engineer](#job-title-security-engineer)
-4. [Web Developer](#job-title-software-developer---web-dev)
-5. [Data Scientist](#job-title-software-developer---data-scientist)
-6. [Devops](#job-title-software-developer---devops)
-7. [Project Manager](#job-title-project-manager)
+4. [Project Manager](#job-title-project-manager)
 
 ---
 
@@ -145,122 +142,6 @@ __Preferences__
 * Experience building, modifying, and/or deploying open source defensive tool sets
 
 __Contact__
-
-spt201901@blacklanternsecurity.com
-
---- 
-
-# <a name="WebDeveloper"></a>Job Title: Software Developer - Web Dev
-
-**Location: Charleston, SC**
-
-__Responsibilities:__
-
-Development of a threat management web application that includes:
-
-* Building out CRUD operations for data
-* Building interfaces for triaging and investigating indicators of compromise.
-* Provide dashboards for customers that show data relating to these activities.
-
-**Requirements:**
-
-* **Front-End**
-  * Knowledge and experience with:
-    * Web fundamentals like HTML, JavaScript, and CSS
-    * CSS preprocessors like Sass or LESS.
-    * JavaScript frameworks like AngularJS, React, or VueJS.
-    * JS-based build tools like Webpack, Grunt, Gulp, and Bower.
-    * Front-end (CSS) frameworks like Foundation or Bootstrap. (Preference for Bootstrap)
-* **Back-End**
-  * Knowledge and experience with:
-    * API design and development
-    * CRUD (Create, Read, Update, Delete)
-    * RESTful Services
-    * Server-side languages like Go, PHP, Python, Ruby, Java, and .Net. (Preference for Python and more specifically the Flask framework)
-    * Database technologies like SQL (Preference for MySQL) and Elasticsearch.
-    * Web server technologies like Apache and Nginx.
-    * Experience with Linux/Unix.
-
-* **General**
-  * Knowledge and experience with:
-    * SCRUM
-    * Git
-    * OOP and software design knowledge – you should know how to create software that’s extensible, reusable and meets desired architectural objectives.
-
-**Preferences:**
-
-* Previous experience developing/using offensive and defensive cybersecurity tools is a plus.
-* Previous experience with and/or knowledge of incident handling workflows is a plus
-* Familiarity with industry standards and best practices including the Penetration Testing Execution Standard (PTES) and the Mitre Adversarial Tactics, (Techniques, and Common Knowledge (ATT&CK) Framework.
-
-__Contact__
-
-spt201901@blacklanternsecurity.com
-
----
-
-# <a name="DataScientist"></a>Job Title: Software Developer - Data Scientist
-
-**Location: Charleston, SC**
-
-__Responsibilities:__
-
-* Build client APIs for updates and data transfer.
-* Establish ETL data pipelines to ingest and correlate data.
-* Select and integrate Big Data tools and frameworks as required to provide requested capabilities.
-* Build and tune machine learning models.
-
-* **Requirements:**
-
-* Experience with:
-  * SQL (Preference for MySQL) and Elasticsearch.
-  * Integration of data from multiple data sources.
-  * Various messaging systems, such as Kafka or RabbitMQ. (Preference RabbitMQ)
-  * Any machine learning frameworks like SparkML or scikit-learn.
-* Proficient in R or Python for statistical programming (Preference for Python).
-* Proficient in languages like Go, PHP, Python, Ruby, Java, and .Net for creating API endpoints. (Preference for Python and more specifically the Flask framework)
-
-
-**Preferences:**
-
-* Previous experience developing/using offensive and defensive cybersecurity tools is a plus.
-* Previous experience with and/or knowledge of incident handling workflows is a plus
-* Familiarity with industry standards and best practices including the Penetration Testing Execution Standard (PTES) and the Mitre Adversarial Tactics, Techniques, and Common Knowledge (ATT&CK) Framework.
-
-__Contact__
-
-spt201901@blacklanternsecurity.com
-
----
-
-# <a name="Devops"></a>Job Title: Software Developer - Devops
-
-**Location: Charleston, SC**
-
-**Responsibilities:**
-
-* Development of Python client software to search Elasticsearch and push data to other endpoints.
-* Deployment, maintenance, and monitoring of Elasticsearch docker clusters.
-* Maintaining and monitoring MySQL and EC2 web apps on AWS.
-
-**Requirements:**
-
-* Experience in Linux/Unix Administration.
-* Experience with automation/configuration management.
-* Ability to use a wide variety of open source technologies and cloud services (Preference for AWS).
-* Experience with SQL (Preference for MySQL) and Elasticsearch.
-* A working understanding of code and script (Bash, Python, Perl and/or Ruby) (Preference for Python).
-* Knowledge of best practices and IT operations in an always-up, always-available service.
-* Experience deploying, maintaining, and monitoring systems and applications.
-* Familiarity with webservers like Apache and Nginx.
-
-**Preferences:**
-
-* Previous experience developing/using offensive and defensive cybersecurity tools is a plus.
-* Previous experience with and/or knowledge of incident handling workflows is a plus.
-* Familiarity with industry standards and best practices including the Penetration Testing Execution Standard (PTES) and the Mitre Adversarial Tactics, Techniques, and Common Knowledge (ATT&CK) Framework.
-
-**Contact**
 
 spt201901@blacklanternsecurity.com
 
