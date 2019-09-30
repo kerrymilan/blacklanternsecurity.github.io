@@ -1,6 +1,6 @@
 ---
-menu: true
 title: Jobs
+menu: true
 order: 3
 ---
 
@@ -9,12 +9,14 @@ order: 3
 2. [Junior Pentester](#job-title-junior-penetration-tester)
 3. [Security Engineer](#job-title-security-engineer)
 4. [Project Manager](#job-title-project-manager)
+5. [HR Director/Manager](#job-title-hr-director-manager)
+6. [Cyber Security Recruiter](#job-title-cyber-security-recruiter)
 
 ---
 
 # <a name="SeniorPentester"></a>Job Title: Senior Penetration Tester
 
-**Location: Charleston, SC (home base) travelling required domestically and internationally**
+**Location: Charleston, SC (home base) traveling required domestically and internationally**
 
 __Required__
 
@@ -59,7 +61,7 @@ spt201901@blacklanternsecurity.com
 
 # <a name="JuniorPentester"></a>Job Title: Junior Penetration Tester
 
-**Location: Charleston, SC (home base) travelling required domestically and internationally**
+**Location: Charleston, SC (home base) traveling required domestically and internationally**
 
 __Required__
 
@@ -101,7 +103,7 @@ spt201901@blacklanternsecurity.com
 
 # <a name="Security Engineer"></a>Job Title: Security Engineer
 
-**Location: Charleston, SC (home base) travelling required domestically and internationally**
+**Location: Charleston, SC (home base) traveling required domestically and internationally**
 
 __Responsibilities__
 * Project-Based
@@ -149,7 +151,7 @@ spt201901@blacklanternsecurity.com
 
 # <a name="ProjectManager"></a>Job Title: Project Manager
 
-**Location: Charleston, SC (home base) travelling required domestically and internationally**
+**Location: Charleston, SC (home base) traveling required domestically and internationally**
 
 **Responsibilities:**
 
@@ -178,6 +180,81 @@ spt201901@blacklanternsecurity.com
 
 * Previous engineering or systems administration experience is considered a plus
 * Possess a basic understanding of regulatory standards and requirements including the Health Insurance Portability and Accountability Act (HIPAA), Payment Card Industry Data Security Standard (PCI-DSS), and the Gramm-Leach-Bliley Act (GLBA).
+
+**Contact**
+
+spt201901@blacklanternsecurity.com
+
+---
+
+# <a name="HRDirectorManager"></a>Job Title: HR Director Manager
+
+**Location: Charleston, SC (home base) traveling required domestically and internationally**
+
+**Responsibilities:**
+
+* Develop and maintain a BLSOPS corporate culture that is consistent with our vision and values. Activities and initiatives should include novel approaches to employee retention and overall compensation.
+* Execute and oversee all employee on-boarding activities including the creation and delivery of an inclusive compensation package. Package materials will include health benefits, financial compensation, corporate policies, training allowances, leave, and re-location.
+* Participate in planning meetings with Executive Leadership, Technical Leads, and Project Managers to review near-, mid-, and long-term hiring objectives.
+* Support BLSOPS recruitment activities including conference/workshop attendance and presentations, candidate interviews, and resume reviews.
+* Continuously develop and improve employee relationships by staying aware of industry trends and standards, as well as being informed about what our competitors and industry peers are proving their employees.
+* Ensure compliance with all labor laws/regulation. Continuously reviews policies and procedures to ensure they are consistent with the company’s strategies and compliant with evolving labor laws .
+
+**Requirements:**
+
+* Must be US citizen (must be willing to submit to federal, state, and local background checks and other requirements).
+* Bachelor’s Degree in HR or Business Administration.
+* 5+ years of HR experience with a minimum of 3 years in HR management.
+* Excellent interpersonal, oral, and written communication skills.
+* Strong consultative, analytical, and problem-solving skills.
+* Proficiency in legal and regulatory HR knowledge.
+* A demonstrated ability to relate to employees at all levels within the organization.
+* Possess a basic understanding of cybersecurity culture and the unique challenges and opportunities that exist in a cutting-edge tech firm.
+* A willingness to attend cybersecurity conferences and events for the express purpose of recruiting candidates.
+* Experience and a strong proficiency in the use of a variety of software and HRIS/Payroll platforms.
+
+**Preferrences**
+
+* Professional Human Resources (PHR) or Senior Professional Human Resources (SPHR) certification from the Society of Human Resources Management (SHRM) is preferred.
+
+**Contact**
+
+spt201901@blacklanternsecurity.com
+
+---
+
+# <a name="ProjectManager"></a>Job Title: Cyber Security Recruiter
+
+**Location: Charleston, SC (home base) traveling required domestically and internationally**
+
+**Responsibilities:**
+
+* Design, build, and maintain a pipeline of highly qualified candidates.
+* Understand and effectively communicate our business mission and value proposition.
+* Develop and implement effective strategies and tactics to create productive and mutually beneficial relationships in the community; this includes building and strengthening relationships with career offices at local universities and tech schools.
+* Participate in planning meetings with Executive Leadership, Technical Leads, and Project Managers to review near-, mid-, and long-term hiring objectives.
+* Collaborate with Executive Leadership, Technical Leads, and Project Managers to define job roles, responsibilities, and requirements.
+* Publish and maintain job postings across multiple platforms including all forms of social media (twitter, reddit. etc.), corporate web pages, industry conferences (Defcon, Blackhat), and workshops (B-Sides)
+* Gather and analyze competitive business intelligence, industry trends, product offerings, and emerging/evolving skill sets.
+* Combine industry best practices and novel/creative recruitment activities to identify, research, engage, and attract highly qualified candidates to develop a diverse pool of talent. This may involve collaborating with BLS Operators to design, develop, and deploy “capture-the-flag” themed activities including vulnerable systems and applications, cryptographic puzzles, reverse engineering problems, and forensic challenges.
+* Utilize the Monday.com platform for candidate tracking and progression through the screening process.
+* Screen candidates for availability, interest level, salary range, basic technical qualifications, and cultural fit and effectively present results to the management team.
+* Work within multiple job categories and with candidates at all skill levels.
+* Advocate for all candidates during the recruitment and hiring processes.
+
+**Requirements:**
+
+* That rare combination of inter-personal skills, genuine empathy, and technical know-how.
+* Bachelors degree in Business administration or Human Resources (HR).
+* 3+ years of technical recruitment experience.
+* Strong work ethic.
+* Experience utilizing social media platforms, including somewhat non-traditional platforms like Reddit
+* Possess a basic understanding of hacker/cybersecurity culture and how it operates outside many industry/professional norms.
+* A willingness to attend hacking/cybersecurity conferences and events for the explicit purpose of recruiting candidates.
+* Strong analytical skills to discern qualified technical candidates ; understand the distinctions between reverse engineers, red team/blue team operators, developers, analysts, and system administrators.
+* An ability to prioritize and multitask.
+* Strong execution and organizational skills with attention to detail.
+* Possess awareness and demonstrate adherence to the laws and ethics that apply to hiring practices.
 
 **Contact**
 
