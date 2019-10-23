@@ -197,7 +197,7 @@ spt201901@blacklanternsecurity.com
 * Execute and oversee all employee on-boarding activities including the creation and delivery of an inclusive compensation package. Package materials will include health benefits, financial compensation, corporate policies, training allowances, leave, and re-location.
 * Participate in planning meetings with Executive Leadership, Technical Leads, and Project Managers to review near-, mid-, and long-term hiring objectives.
 * Support BLSOPS recruitment activities including conference/workshop attendance and presentations, candidate interviews, and resume reviews.
-* Continuously develop and improve employee relationships by staying aware of industry trends and standards, as well as being informed about what our competitors and industry peers are proving their employees.
+* Continuously develop and improve employee relationships by staying aware of industry trends and standards, as well as being informed about what our competitors and industry peers are providing their employees.
 * Ensure compliance with all labor laws/regulation. Continuously reviews policies and procedures to ensure they are consistent with the company’s strategies and compliant with evolving labor laws .
 
 **Requirements:**
@@ -213,7 +213,7 @@ spt201901@blacklanternsecurity.com
 * A willingness to attend cybersecurity conferences and events for the express purpose of recruiting candidates.
 * Experience and a strong proficiency in the use of a variety of software and HRIS/Payroll platforms.
 
-**Preferrences**
+**Preferences**
 
 * Professional Human Resources (PHR) or Senior Professional Human Resources (SPHR) certification from the Society of Human Resources Management (SHRM) is preferred.
 
