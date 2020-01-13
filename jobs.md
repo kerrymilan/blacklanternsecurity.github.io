@@ -10,7 +10,6 @@ order: 3
 3. [Security Engineer](#job-title-security-engineer)
 4. [Project Manager](#job-title-project-manager)
 5. [HR Director/Manager](#job-title-hr-director-manager)
-6. [Cyber Security Recruiter](#job-title-cyber-security-recruiter)
 
 ---
 
@@ -216,45 +215,6 @@ spt201901@blacklanternsecurity.com
 **Preferences**
 
 * Professional Human Resources (PHR) or Senior Professional Human Resources (SPHR) certification from the Society of Human Resources Management (SHRM) is preferred.
-
-**Contact**
-
-spt201901@blacklanternsecurity.com
-
----
-
-# <a name="ProjectManager"></a>Job Title: Cyber Security Recruiter
-
-**Location: Charleston, SC (home base) traveling required domestically and internationally**
-
-**Responsibilities:**
-
-* Design, build, and maintain a pipeline of highly qualified candidates.
-* Understand and effectively communicate our business mission and value proposition.
-* Develop and implement effective strategies and tactics to create productive and mutually beneficial relationships in the community; this includes building and strengthening relationships with career offices at local universities and tech schools.
-* Participate in planning meetings with Executive Leadership, Technical Leads, and Project Managers to review near-, mid-, and long-term hiring objectives.
-* Collaborate with Executive Leadership, Technical Leads, and Project Managers to define job roles, responsibilities, and requirements.
-* Publish and maintain job postings across multiple platforms including all forms of social media (twitter, reddit. etc.), corporate web pages, industry conferences (Defcon, Blackhat), and workshops (B-Sides)
-* Gather and analyze competitive business intelligence, industry trends, product offerings, and emerging/evolving skill sets.
-* Combine industry best practices and novel/creative recruitment activities to identify, research, engage, and attract highly qualified candidates to develop a diverse pool of talent. This may involve collaborating with BLS Operators to design, develop, and deploy “capture-the-flag” themed activities including vulnerable systems and applications, cryptographic puzzles, reverse engineering problems, and forensic challenges.
-* Utilize the Monday.com platform for candidate tracking and progression through the screening process.
-* Screen candidates for availability, interest level, salary range, basic technical qualifications, and cultural fit and effectively present results to the management team.
-* Work within multiple job categories and with candidates at all skill levels.
-* Advocate for all candidates during the recruitment and hiring processes.
-
-**Requirements:**
-
-* That rare combination of inter-personal skills, genuine empathy, and technical know-how.
-* Bachelors degree in Business administration or Human Resources (HR).
-* 3+ years of technical recruitment experience.
-* Strong work ethic.
-* Experience utilizing social media platforms, including somewhat non-traditional platforms like Reddit
-* Possess a basic understanding of hacker/cybersecurity culture and how it operates outside many industry/professional norms.
-* A willingness to attend hacking/cybersecurity conferences and events for the explicit purpose of recruiting candidates.
-* Strong analytical skills to discern qualified technical candidates ; understand the distinctions between reverse engineers, red team/blue team operators, developers, analysts, and system administrators.
-* An ability to prioritize and multitask.
-* Strong execution and organizational skills with attention to detail.
-* Possess awareness and demonstrate adherence to the laws and ethics that apply to hiring practices.
 
 **Contact**
 
