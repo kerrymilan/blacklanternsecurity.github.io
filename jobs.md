@@ -7,7 +7,7 @@ order: 3
 # Table of Contents
 1. [Senior Pentester](#job-title-senior-penetration-tester)
 2. [Junior Pentester](#job-title-junior-penetration-tester)
-3. [Security Engineer](#job-title-security-engineer)
+3. [Blue Teamer Incident Response](#job-title-blue-teamer-incident-response)
 4. [Project Manager](#job-title-project-manager)
 5. [HR Director/Manager](#job-title-hr-director-manager)
 
@@ -100,7 +100,7 @@ spt201901@blacklanternsecurity.com
 
 --- 
 
-# <a name="Security Engineer"></a>Job Title: Security Engineer
+# <a name="Blue Teamer (Incident Response)"></a>Job Title: Blue Teamer (Incident Response)
 
 **Location: Charleston, SC (home base) traveling required domestically and internationally**
 
