@@ -7,9 +7,10 @@ order: 3
 # Table of Contents
 1. [Senior Pentester](#job-title-senior-penetration-tester)
 2. [Junior Pentester](#job-title-junior-penetration-tester)
-3. [Blue Teamer Incident Response](#job-title-blue-teamer-incident-response)
-4. [Project Manager](#job-title-project-manager)
-5. [HR Director/Manager](#job-title-hr-director-manager)
+3. [Web Application Pentester](#job-title-web-application-penetration-tester)
+4. [Blue Teamer Incident Response](#job-title-blue-teamer-incident-response)
+5. [Project Manager](#job-title-project-manager)
+6. [HR Director/Manager](#job-title-hr-director-manager)
 
 ---
 
@@ -93,6 +94,54 @@ __Responsibilities:__
   * Conduct independent research for:
   * The development of novel attack methods.
   * Discovering new and/or undisclosed vulnerabilities.
+
+__Contact__
+
+spt201901@blacklanternsecurity.com
+
+--- 
+
+# <a name="WebApplicationPentester"></a>Job Title: Web Application Penetration Tester
+
+**Location: Charleston, SC (home base) traveling required domestically and internationally**
+
+__Required__
+
+* Must be US citizen (must be willing to submit to federal, state, and local background checks and other requirements).
+* Experience in performing penetration testing on enterprise networks, web applications, and mobile applications.
+* Familiarity with common web vulnerabilities including: XSS, XXE, SQL Injection, Deserialization Attacks, File Inclusion/Path Traversal Attacks, Server-side Request Forgery, Remote Execution Flaws, Server Configuration Flaws and Authentication Flaws.
+* Experience in testing web-based APIs (i.e. REST, SOAP, XML, JSON).
+* Experience in designing and documenting pragmatic remediation guidance for discovered vulnerabilities.
+* Experience developing actionable intelligence based on open source intelligence (OSINT) gathering.
+* Experience with 1 or more scripting languages such as Bash, Python, Perl, PowerShell, etc.
+* Solid understanding of OWASP testing methodology.
+* Familiarity with front-end web application frameworks (i.e. AngularJS, Bootstrap, etc).
+* Capable of working effectively and efficiently with minimal supervision.
+* Strong written and verbal English language skills.
+* Demonstrated ability to:
+  * Adhere to the highest standards of honesty and scientific and business integrity.
+  * Think critically about complex problems and situations.
+  * Consider emerging web-based vulnerabilities and threats from within the context of organizational risk and business impact(s).
+  * Develop novel attack vectors based on newly discovered vulnerabilities.
+
+__Preferences__
+
+* Web application development or source code review experience.
+* Strong knowledge of Windows and Linux operating systems.
+* Working knowledge of containerized applications and container-based security controls and configurations.
+* Possess current professional certification (i.e. GWAPT, OSCP, OSCE, GPEN)
+
+__Responsibilities__
+
+* Conduct assessments of web applications, mobile applications, databases, client-side applications and tools, and APIs.
+* Execute manual and automated code analysis to assess the quality and security of source code.
+* Perform pre-assessment research and preparation including reconnaissance, documentation and configuration review, and customer interviews.
+* Develop custom tools and exploits.
+* Analyze security findings, including risk analysis and root cause analysis.
+* Generate comprehensive reports, including detailed findings, exploitation procedures, and mitigations.
+* Develop and deliver walkthrough(s), proof(s) of concept (PoCs), articles, and formal presentations.
+* Execute verification and validation testing for customer mitigations and fixes.
+
 
 __Contact__
 
