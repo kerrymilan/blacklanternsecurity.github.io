@@ -22,7 +22,7 @@ author:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         blacklanterninc
+    twitter:         blacklanternllc
     github:          blacklanternsecurity
     email:           info@blacklanternsecurity.com
     # rss:             https://<url>/feed.xml
@@ -122,6 +122,22 @@ jem:
 #  picture:           https://placehold.it/128x128
   twitter:           thetechr0mancer
   github:            TheTechromancer
+#  accent_color:      '#268bd2'
+#  accent_image:
+#    background:      '#202020'
+#    overlay:         false
+
+# Another author (optional)
+tjp:
+  name:              Thomas Preston
+  email:             thomas.preston@blacklanternsecurity.com
+  about:             |
+    Thomas Preston is an operator at Black Lantern Security.
+
+#    Open `_data/authors.yml` to edit this text.
+#  picture:           https://placehold.it/128x128
+#  twitter:           placeholder
+#  github:            placeholder
 #  accent_color:      '#268bd2'
 #  accent_image:
 #    background:      '#202020'
