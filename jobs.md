@@ -10,7 +10,6 @@ order: 3
 3. [Web Application Pentester](#job-title-web-application-penetration-tester)
 4. [Blue Teamer Incident Response](#job-title-blue-teamer-incident-response)
 5. [Project Manager](#job-title-project-manager)
-6. [HR Director/Manager](#job-title-hr-director-manager)
 
 ---
 
@@ -228,42 +227,6 @@ spt201901@blacklanternsecurity.com
 
 * Previous engineering or systems administration experience is considered a plus
 * Possess a basic understanding of regulatory standards and requirements including the Health Insurance Portability and Accountability Act (HIPAA), Payment Card Industry Data Security Standard (PCI-DSS), and the Gramm-Leach-Bliley Act (GLBA).
-
-**Contact**
-
-spt201901@blacklanternsecurity.com
-
----
-
-# <a name="HRDirectorManager"></a>Job Title: HR Director Manager
-
-**Location: Charleston, SC (home base) traveling required domestically and internationally**
-
-**Responsibilities:**
-
-* Develop and maintain a BLSOPS corporate culture that is consistent with our vision and values. Activities and initiatives should include novel approaches to employee retention and overall compensation.
-* Execute and oversee all employee on-boarding activities including the creation and delivery of an inclusive compensation package. Package materials will include health benefits, financial compensation, corporate policies, training allowances, leave, and re-location.
-* Participate in planning meetings with Executive Leadership, Technical Leads, and Project Managers to review near-, mid-, and long-term hiring objectives.
-* Support BLSOPS recruitment activities including conference/workshop attendance and presentations, candidate interviews, and resume reviews.
-* Continuously develop and improve employee relationships by staying aware of industry trends and standards, as well as being informed about what our competitors and industry peers are providing their employees.
-* Ensure compliance with all labor laws/regulation. Continuously reviews policies and procedures to ensure they are consistent with the company’s strategies and compliant with evolving labor laws .
-
-**Requirements:**
-
-* Must be US citizen (must be willing to submit to federal, state, and local background checks and other requirements).
-* Bachelor’s Degree in HR or Business Administration.
-* 5+ years of HR experience with a minimum of 3 years in HR management.
-* Excellent interpersonal, oral, and written communication skills.
-* Strong consultative, analytical, and problem-solving skills.
-* Proficiency in legal and regulatory HR knowledge.
-* A demonstrated ability to relate to employees at all levels within the organization.
-* Possess a basic understanding of cybersecurity culture and the unique challenges and opportunities that exist in a cutting-edge tech firm.
-* A willingness to attend cybersecurity conferences and events for the express purpose of recruiting candidates.
-* Experience and a strong proficiency in the use of a variety of software and HRIS/Payroll platforms.
-
-**Preferences**
-
-* Professional Human Resources (PHR) or Senior Professional Human Resources (SPHR) certification from the Society of Human Resources Management (SHRM) is preferred.
 
 **Contact**
 
