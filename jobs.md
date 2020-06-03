@@ -10,6 +10,7 @@ order: 3
 3. [Web Application Pentester](#job-title-web-application-penetration-tester)
 4. [Blue Teamer Incident Response](#job-title-blue-teamer-incident-response)
 5. [Project Manager](#job-title-project-manager)
+6. [Technical Writer](#job-title-technical-writer)
 
 ---
 
@@ -227,6 +228,48 @@ spt201901@blacklanternsecurity.com
 
 * Previous engineering or systems administration experience is considered a plus
 * Possess a basic understanding of regulatory standards and requirements including the Health Insurance Portability and Accountability Act (HIPAA), Payment Card Industry Data Security Standard (PCI-DSS), and the Gramm-Leach-Bliley Act (GLBA).
+
+**Contact**
+
+spt201901@blacklanternsecurity.com
+
+---
+
+# <a name="TechnicalWriter"></a>Job Title: Technical Writer
+
+**Location: Charleston, SC (home base) traveling required domestically and internationally**
+
+**Responsibilities:**
+
+* Develop and deliver Master Service Agreements (MSAs) and Statements of Work (SOWs) from contract execution to customer.
+* Provide support to Project Management, Team Leads and other staff responsible with the coordination, preparation, and delivery of Contract Deliverables in accordance with the SOW and ad-hoc requests.
+* Be the primary point-of-contact (POC) and accountable for completing contract deliverables and their timely submission.
+* Create and standardize project documentation templates; continuously improve the documentation development and review process throughout project execution.
+* Prepare, edit, revise, submit and track customer on-boarding documentation.
+* Interview subject matter experts and translate that information into technical content.
+* Ensure documents meet standards for quality, graphics, coverage, format, and style.
+
+**Requirements:**
+
+* Must be US citizen (must be willing to submit to federal, state, and local background checks and other requirements).
+* Bachelor's degree in English, Communications, Technology, or a related field coupled with 2+ years of experience as a Technical Writer.
+* Production and/or editing of contractual agreements, process /methodology documents, technical user and administrator guides, training material, or other related materials.
+* Possess a basic understanding of Cybersecurity services and concepts including red teaming, penetration testing, risk analysis, vulnerability management, and configuration management (CM).
+* Ability to publish clear and concise information for technical and non-technical audiences.
+* Exceptional organizational and time management skills.
+* Proficient with MS Office applications, to include MS Word, Excel, PowerPoint, Outlook, and SharePoint as well as Adobe Acrobat.
+* Strong written and verbal English language skills.
+* Capable of working in a fast paced, multi-tasking environment.
+* Ultimate team player with excellent client-facing skills.
+* Strong attention to detail.
+
+**Preferrences**
+
+Preferences
+* Information Technology (IT) or Cyber Security background.
+* Working knowledge of the government contracting life cycle.
+* Experience in answering Requests for Proposal (RFP), Requests for Qualifications (RFQ), and/or Requests for Information (RFI).
+* Professional writing certification from an accredited college/university or from the Society for Technical Communication.
 
 **Contact**
 
