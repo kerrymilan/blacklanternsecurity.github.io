@@ -10,7 +10,6 @@ order: 3
 3. [Web Application Pentester](#job-title-web-application-penetration-tester)
 4. [Blue Teamer Incident Response](#job-title-blue-teamer-incident-response)
 5. [Project Manager](#job-title-project-manager)
-5. [Technical Writer](#job-title-technical-writer)
 
 ---
 
@@ -198,44 +197,6 @@ spt201901@blacklanternsecurity.com
 ---
 
 # <a name="ProjectManager"></a>Job Title: Project Manager
-
-**Location: Charleston, SC (home base) traveling required domestically and internationally**
-
-**Responsibilities:**
-
-* Develop, deliver, and track Master Service Agreements (MSAs) and Statements of Work (SOWs) from contract execution to customer acceptance.
-* Manage and assign resources, cost, and deadlines for project execution.
-* Manage parallel projects for multiple customers.
-* Track activities, deliverables, and milestones for multiple customers.
-* Develop, document, and deliver customer on-boarding and support processes and procedures.
-* Develop, document, and deliver internal policies, processes, and procedures.
-* Execute additional tasking as assigned by supervisor.
-
-**Requirements:**
-
-* Must be US citizen (must be willing to submit to federal, state, and local background checks and other requirements).
-* 5+ years experience managing Cybersecurity related projects.
-* Possess a basic understanding of Cybersecurity services and concepts including red teaming, penetration testing, risk analysis, vulnerability management, and configuration management (CM).
-* One or more professional certifications including PMP, PgMP, CISSP, Security+ etc.
-* Demonstrated ability to:
-  * Communicate (written & verbal) effectively across the entire business stack (Executives, Management, Engineers and Administrators).
-  * Adhere to the highest standards of honesty and scientific and business integrity.
-  * Understand and empathize with a customer’s business mission.
-  * Identify and understand critical business workflows.
-  * Develop and manage customer requirements.
-
-**Preferrences**
-
-* Previous engineering or systems administration experience is considered a plus
-* Possess a basic understanding of regulatory standards and requirements including the Health Insurance Portability and Accountability Act (HIPAA), Payment Card Industry Data Security Standard (PCI-DSS), and the Gramm-Leach-Bliley Act (GLBA).
-
-**Contact**
-
-spt201901@blacklanternsecurity.com
-
----
-
-# <a name="TechnicalWriter"></a>Job Title: Technical Writer
 
 **Location: Charleston, SC (home base) traveling required domestically and internationally**
 
