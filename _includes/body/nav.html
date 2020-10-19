@@ -4,21 +4,24 @@
   {% assign documents = site.documents | where: "menu", true %}
   {% assign nodes = pages | concat: documents | sort: "order" %}
   {% for node in nodes %}
-    {% unless node.redirect_to %}
-      <li>
-        <a
-          {% if forloop.first %}id="_navigation"{% endif %}
-          href="{{ node.url | relative_url }}"
-          class="sidebar-nav-item{% if page.url contains node.url %} active{% endif %}"
-          {% if path.rel %}rel="{{ node.rel }}"{% endif %}
-          >
-          {{ node.title }}
-        </a>
-      </li>
-    {% else %}
-      <li>
-        <a href="{{ node.redirect_to }}" class="sidebar-nav-item external" >{{ node.title }}</a>
-      </li>
+    {% unless pageList contains node.title %}
+      {% unless node.redirect_to %}
+        <li>
+          <a
+            {% if forloop.first %}id="_navigation"{% endif %}
+            href="{{ node.url | relative_url }}"
+            class="sidebar-nav-item{% if page.url contains node.url %} active{% endif %}"
+            {% if path.rel %}rel="{{ node.rel }}"{% endif %}
+            >
+            {{ node.title }}
+          </a>
+        </li>
+      {% else %}
+        <li>
+          <a href="{{ node.redirect_to }}" class="sidebar-nav-item external" >{{ node.title }}</a>
+        </li>
+      {% endunless %}
     {% endunless %}
+    {% assign pageList = node.title | append: pageList %}
   {% endfor %}
 </ul>
